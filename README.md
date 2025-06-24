@@ -7,7 +7,7 @@ I specialize in building modern, responsive web applications using:
 
 **HTML | CSS | Tailwind CSS | JavaScript | React | Express.js | Firebase | MongoDB**
 
-# About me
+# 💼 About Me
 
 Hi, I’m Sarfaraz Akram, a Full Stack Web Developer passionate about crafting modern and responsive web applications.
 
