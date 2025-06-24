@@ -11,8 +11,6 @@ I specialize in building modern, responsive web applications using:
 
 Hi there! I'm **Sarfaraz Akram** – a passionate Full Stack Web Developer from Bangladesh. I enjoy building clean and efficient web applications using modern technologies. When I'm not coding, I'm learning something new or experimenting with new stacks.
 
-[![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-
 ---
 
 ## ⚒️ When I Code, I Rely On
