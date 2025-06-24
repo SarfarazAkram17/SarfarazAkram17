@@ -38,8 +38,6 @@ Hi there! I'm **Sarfaraz Akram** – a passionate Full Stack Web Developer from 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SarfarazAkram17&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SarfarazAkram17)
-
 
 
 
