@@ -17,6 +17,7 @@ Hi, I’m Sarfaraz Akram, a Full Stack Web Developer passionate about crafting m
 <br/>
 Let’s build something amazing together!
 <br/> <br/>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
