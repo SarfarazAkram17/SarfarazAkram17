@@ -22,6 +22,11 @@ Hi there! I'm **Sarfaraz Akram** – a passionate Full Stack Web Developer from 
 | **Tools & Platforms**    | ![GitHub](https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-2d2d2d?style=for-the-badge&logo=firebase&logoColor=FFCA28) ![JWT](https://img.shields.io/badge/JWT-2d2d2d?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-2d2d2d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC) |
 
 
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarfaraz-akram)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SarfarazAkram17)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarfaraz.akram055@gmail.com)
 
 
 
