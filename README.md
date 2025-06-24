@@ -30,7 +30,16 @@ Hi there! I'm **Sarfaraz Akram** – a passionate Full Stack Web Developer from 
 
 # GitHub Stats
 
+## GitHub Stats
+
 ![Sarfaraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarfarazAkram17&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarfarazAkram17&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SarfarazAkram17&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=SarfarazAkram17)
+
 
 
 
