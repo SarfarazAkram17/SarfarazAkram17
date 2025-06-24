@@ -1,4 +1,4 @@
-![Banner](./Github_Banner.png)
+![Banner](./Github-Banner.png)
 
 # 👨‍💻 Sarfaraz Akram
 ### Full Stack Web Developer
