@@ -36,7 +36,7 @@ Hi there! I'm **Sarfaraz Akram** – a passionate Full Stack Web Developer from 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarfarazAkram17&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 
