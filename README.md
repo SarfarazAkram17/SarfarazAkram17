@@ -32,9 +32,7 @@ Hi there! I'm **Sarfaraz Akram** – a passionate Full Stack Web Developer from 
 
 ## GitHub Stats
 
-<div style="display: flex;">![Sarfaraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarfarazAkram17&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarfarazAkram17&layout=compact&theme=radical)</div>
+![Sarfaraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarfarazAkram17&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SarfarazAkram17&layout=compact&theme=radical)
 
 
 
