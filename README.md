@@ -22,7 +22,7 @@ Hi there! I'm **Sarfaraz Akram** – a passionate Full Stack Web Developer from 
 | **Back-End Development** | ![Node.js](https://img.shields.io/badge/Node.js-2d2d2d?style=for-the-badge&logo=node.js&logoColor=339933) ![Express.js](https://img.shields.io/badge/Express.js-2d2d2d?style=for-the-badge&logo=express&logoColor=white) |
 | **Database**             | ![MongoDB](https://img.shields.io/badge/MongoDB-2d2d2d?style=for-the-badge&logo=mongodb&logoColor=47A248) |
 | **Tools & Platforms**    | ![GitHub](https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-2d2d2d?style=for-the-badge&logo=firebase&logoColor=FFCA28) ![JWT](https://img.shields.io/badge/JWT-2d2d2d?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-2d2d2d?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC) |
-| **Deployments**    | ![Netlify](https://img.shields.io/badge/Netlify-2d2d2d?style=for-the-badge&logo=Netlify&logoColor=white)  ![Vercel](https://img.shields.io/badge/Vercel-2d2d2d?style=for-the-badge&logo=Vercel&logoColor=white) |
+| **Deployments**    | ![Netlify](https://img.shields.io/badge/Netlify-2d2d2d?style=for-the-badge&logo=Netlify&logoColor=blue)  ![Vercel](https://img.shields.io/badge/Vercel-2d2d2d?style=for-the-badge&logo=Vercel&logoColor=white) |
 
 ## Connect with me:
 
