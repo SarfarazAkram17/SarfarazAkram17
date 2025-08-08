@@ -1,5 +1,11 @@
 ![Banner](./Github_Banner.jpg)
 
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SarfarazAkram17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SarfarazAkram17&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarfarazAkram17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 # 👨‍💻 Sarfaraz Akram
 ### Full Stack Web Developer
 
@@ -30,11 +36,7 @@ Hi there! I'm **Sarfaraz Akram** – a passionate Full Stack Web Developer from 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=portfolio&logoColor=white)](https://sarfarazakram.netlify.app)
 
 
-## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SarfarazAkram17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SarfarazAkram17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarfarazAkram17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
