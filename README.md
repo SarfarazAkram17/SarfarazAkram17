@@ -1,11 +1,5 @@
 ![Banner](./Github_Banner.jpg)
 
-# Current Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=SarfarazAkram17&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br />
-![](https://nirzak-streak-stats.vercel.app/?user=SarfarazAkram17&theme=dark&hide_border=false) <br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarfarazAkram17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br />
-
 # 👨‍💻 Sarfaraz Akram
 ### Full Stack Web Developer
 
@@ -37,7 +31,11 @@ My next plan is to explore Next.js and Angular.
 [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=portfolio&logoColor=white)](https://sarfarazakram.netlify.app)
 
 
+# Current Github Stats
 
+![](https://github-readme-stats.vercel.app/api?username=SarfarazAkram17&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br />
+![](https://nirzak-streak-stats.vercel.app/?user=SarfarazAkram17&theme=dark&hide_border=false) <br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarfarazAkram17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br />
 
 
 
