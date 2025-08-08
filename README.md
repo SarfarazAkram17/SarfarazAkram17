@@ -18,7 +18,8 @@ I specialize in building modern, responsive, full stack web applications using:
 Hi there! I'm **Sarfaraz Akram** – a passionate Full Stack Web Developer from Bangladesh. I enjoy building clean and efficient web applications using modern technologies. When I'm not coding, I'm learning something new or experimenting with new stacks.
 
 ### 🔄 Current Activity:
-🚚 I’m currently working on a cloud kitchen website name Sam's Kitchen
+I’m currently working on a cloud kitchen website name Sam's Kitchen.
+My next plan is to explore Next.js and Angular.
 ## Technologies i use when code
 
 | Skills Overview          | Technologies |
