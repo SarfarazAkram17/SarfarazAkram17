@@ -32,7 +32,7 @@ Hi there! I'm **Sarfaraz Akram** – a passionate Full Stack Web Developer from 
 
 ## Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&size=20)](https://www.linkedin.com/in/sarfarazakram)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarfarazakram)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=portfolio&logoColor=white)](https://sarfarazakram.netlify.app)
 
 
