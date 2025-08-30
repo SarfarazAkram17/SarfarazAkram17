@@ -1,7 +1,7 @@
 ![Banner](./Github_Banner.png)
 
 # 👨‍💻 Sarfaraz Akram
-### Full Stack Web Developer
+### MERN Stack Developer
 
 I specialize in building modern, responsive, full stack web applications using:
 
@@ -9,11 +9,12 @@ I specialize in building modern, responsive, full stack web applications using:
 
 ## 💼 About Me
 
-Hi there! I'm **Sarfaraz Akram** – a passionate Full Stack Web Developer from Bangladesh. I enjoy building clean and efficient web applications using modern technologies. When I'm not coding, I'm learning something new or experimenting with new stacks.
+Hi there! I'm **Sarfaraz Akram** – a passionate MERN Stack Developer from Bangladesh. I enjoy building clean and efficient web applications using modern technologies. When I'm not coding, I'm learning something new or experimenting with new stacks.
 
-### 🔄 Current Activity:
-  • I’m currently working on a cloud kitchen website name Sam's Kitchen. <br />
-  • My next plan is to explore Next.js and Angular.
+## 🔄 Current Activity:
+  • I’m currently working on a e-commerce website name ShopSphere. <br />
+  • My next plan is to explore and learn Next.js.
+  
 ## Technologies i use when code
 
 | Skills Overview          | Technologies |
@@ -31,7 +32,7 @@ Hi there! I'm **Sarfaraz Akram** – a passionate Full Stack Web Developer from 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=portfolio&logoColor=white)](https://sarfarazakram.netlify.app)
 
 
-# Current Github Stats
+## Current Github Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=SarfarazAkram17&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br />
 ![](https://nirzak-streak-stats.vercel.app/?user=SarfarazAkram17&theme=dark&hide_border=false) <br />
