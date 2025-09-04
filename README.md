@@ -11,7 +11,7 @@ I specialize in building modern, responsive, full stack web applications using:
 
 Hi there! I'm **Sarfaraz Akram** – a passionate MERN Stack Developer from Bangladesh. I enjoy building clean and efficient web applications using modern technologies. When I'm not coding, I'm learning something new or experimenting with new stacks.
 <br />
-Email: sarfaraz.akram055@gmail.com
+Email: sarfaraz.akram055@gmail.com <br />
 Phone/Whatsapp: +8801973254091
 
 ## 🔄 Current Activity:
