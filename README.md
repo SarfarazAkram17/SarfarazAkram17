@@ -16,7 +16,7 @@ Phone/Whatsapp: +8801973254091
 
 ## 🔄 Current Activity:
   • I’m currently working on a e-commerce website name ShopSphere. <br />
-  • I am start a course to learn php & laravel.
+  • I am start a course to learn ![Php](https://img.shields.io/badge/Php-2d2d2d?style=for-the-badge&logo=php&logoColor=4F5B93) & ![Laravel](https://img.shields.io/badge/Laravel-2d2d2d?style=for-the-badge&logo=laravel&logoColor=FF1E14).
   
 ## Technologies i use when code
 
