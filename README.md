@@ -16,7 +16,7 @@ Phone/Whatsapp: +8801973254091
 
 ## 🔄 Current Activity:
   • I’m currently working on a e-commerce website name ShopSphere. <br />
-  • My next plan is to explore and learn Next.js.
+  • I am start a course to learn php & laravel.
   
 ## Technologies i use when code
 
