@@ -15,8 +15,8 @@ Email: sarfaraz.akram055@gmail.com <br />
 Phone/Whatsapp: +8801973254091
 
 ## 🔄 Current Activity:
-  • I’m currently working on a e-commerce website name ShopSphere. <br />
-  • I am start a course to learn PHP & Laravel.
+  • I’m currently working on a multi vendor e-commerce website name ShopSphere as my personal project. <br />
+  • I am start a course to learn PHP, Laravel & Shopify.
   
 ## Technologies i use when code
 
