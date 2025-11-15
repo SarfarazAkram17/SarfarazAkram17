@@ -33,57 +33,91 @@ Phone/Whatsapp: +8801973254091
 
 <br />
 
-<h3>Languages</h3>
-<div style="display: grid; grid-template-columns: repeat(auto-fill, 170px); gap: 8px; justify-content: start;">
-  <img src="https://img.shields.io/badge/JavaScript-2d2d2d?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-</div>
+<style>
+  .skills-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  .skills-table td {
+    padding: 8px 0;
+    vertical-align: middle;
+  }
+  .skills-table .badge {
+    height: 50px !important;
+    width: auto !important;
+    object-fit: contain;
+    display: block;
+  }
+  .skills-table .label {
+    font-weight: 600;
+    color: #2d2d2d;
+    padding-right: 16px;
+    white-space: nowrap;
+  }
+</style>
 
-<h3>Frontend Technologies</h3>
-<div style="display: grid; grid-template-columns: repeat(auto-fill, 170px); gap: 8px; justify-content: start;">
-  <img src="https://img.shields.io/badge/HTML5-2d2d2d?style=for-the-badge&logo=html5&logoColor=E34F26" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/CSS-2d2d2d?style=for-the-badge&logo=css&logoColor=1572B6" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/TailwindCSS-2d2d2d?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/React-2d2d2d?style=for-the-badge&logo=react&logoColor=61DAFB" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-</div>
-
-<h3>Back-End Development</h3>
-<div style="display: grid; grid-template-columns: repeat(auto-fill, 170px); gap: 8px; justify-content: start;">
-  <img src="https://img.shields.io/badge/Node.js-2d2d2d?style=for-the-badge&logo=node.js&logoColor=339933" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/Express.js-2d2d2d?style=for-the-badge&logo=express&logoColor=white" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-</div>
-
-<h3>Database</h3>
-<div style="display: grid; grid-template-columns: repeat(auto-fill, 170px); gap: 8px; justify-content: start;">
-  <img src="https://img.shields.io/badge/MongoDB-2d2d2d?style=for-the-badge&logo=mongodb&logoColor=47A248" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-</div>
-
-<h3>Tools & Platforms</h3>
-<div style="display: grid; grid-template-columns: repeat(auto-fill, 170px); gap: 8px; justify-content: start;">
-  <img src="https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/Firebase-2d2d2d?style=for-the-badge&logo=firebase&logoColor=FFCA28" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/JWT-2d2d2d?style=for-the-badge&logo=jsonwebtokens&logoColor=48EBCD" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/VS_Code-2d2d2d?style=for-the-badge&logo=vscode&logoColor=blue" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/stripe-2d2d2d?style=for-the-badge&logo=stripe&logoColor=6C76E6" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/SSLCommerz-2d2d2d?style=for-the-badge&logo=sslcommerz&logoColor=white" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/antdesign-2d2d2d?style=for-the-badge&logo=antdesign&logoColor=blue" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/Framer_Motion-2d2d2d?style=for-the-badge&logo=framer&logoColor=FFEB0E" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/TanStack_Query-2d2d2d?style=for-the-badge&logo=reactquery&logoColor=BAEED5" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/Material_UI-2d2d2d?style=for-the-badge&logo=mui&logoColor=blue" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-</div>
-
-<h3>Deployments</h3>
-<div style="display: grid; grid-template-columns: repeat(auto-fill, 170px); gap: 8px; justify-content: start;">
-  <img src="https://img.shields.io/badge/Netlify-2d2d2d?style=for-the-badge&logo=Netlify&logoColor=32E6E2" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/Vercel-2d2d2d?style=for-the-badge&logo=Vercel&logoColor=white" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/Render-2d2d2d?style=for-the-badge&logo=Render&logoColor=8A05FF" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-</div>
-
-<h3>Learning/Course</h3>
-<div style="display: grid; grid-template-columns: repeat(auto-fill, 170px); gap: 8px; justify-content: start;">
-  <img src="https://img.shields.io/badge/Php-2d2d2d?style=for-the-badge&logo=php&logoColor=4F5B93" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/Laravel-2d2d2d?style=for-the-badge&logo=laravel&logoColor=FF1E14" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-  <img src="https://img.shields.io/badge/Mysql-2d2d2d?style=for-the-badge&logo=mysql&logoColor=blue" height="50" width="170" style="height:50px!important;width:170px!important;object-fit:contain;">
-</div>
+<table class="skills-table">
+  <tr>
+    <td class="label">Languages</td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-2d2d2d?style=for-the-badge&logo=javascript&logoColor=F7DF1E" class="badge">
+    </td>
+  </tr>
+  <tr>
+    <td class="label">Frontend Technologies</td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-2d2d2d?style=for-the-badge&logo=html5&logoColor=E34F26" class="badge">
+      <img src="https://img.shields.io/badge/CSS-2d2d2d?style=for-the-badge&logo=css&logoColor=1572B6" class="badge">
+      <img src="https://img.shields.io/badge/TailwindCSS-2d2d2d?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" class="badge">
+      <img src="https://img.shields.io/badge/React-2d2d2d?style=for-the-badge&logo=react&logoColor=61DAFB" class="badge">
+    </td>
+  </tr>
+  <tr>
+    <td class="label">Back-End Development</td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-2d2d2d?style=for-the-badge&logo=node.js&logoColor=339933" class="badge">
+      <img src="https://img.shields.io/badge/Express.js-2d2d2d?style=for-the-badge&logo=express&logoColor=white" class="badge">
+    </td>
+  </tr>
+  <tr>
+    <td class="label">Database</td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-2d2d2d?style=for-the-badge&logo=mongodb&logoColor=47A248" class="badge">
+    </td>
+  </tr>
+  <tr>
+    <td class="label">Tools & Platforms</td>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white" class="badge">
+      <img src="https://img.shields.io/badge/Firebase-2d2d2d?style=for-the-badge&logo=firebase&logoColor=FFCA28" class="badge">
+      <img src="https://img.shields.io/badge/JWT-2d2d2d?style=for-the-badge&logo=jsonwebtokens&logoColor=48EBCD" class="badge">
+      <img src="https://img.shields.io/badge/VS_Code-2d2d2d?style=for-the-badge&logo=vscode&logoColor=blue" class="badge">
+      <img src="https://img.shields.io/badge/stripe-2d2d2d?style=for-the-badge&logo=stripe&logoColor=6C76E6" class="badge">
+      <img src="https://img.shields.io/badge/SSLCommerz-2d2d2d?style=for-the-badge&logo=sslcommerz&logoColor=white" class="badge">
+      <img src="https://img.shields.io/badge/antdesign-2d2d2d?style=for-the-badge&logo=antdesign&logoColor=blue" class="badge">
+      <img src="https://img.shields.io/badge/Framer_Motion-2d2d2d?style=for-the-badge&logo=framer&logoColor=FFEB0E" class="badge">
+      <img src="https://img.shields.io/badge/TanStack_Query-2d2d2d?style=for-the-badge&logo=reactquery&logoColor=BAEED5" class="badge">
+      <img src="https://img.shields.io/badge/Material_UI-2d2d2d?style=for-the-badge&logo=mui&logoColor=blue" class="badge">
+    </td>
+  </tr>
+  <tr>
+    <td class="label">Deployments</td>
+    <td>
+      <img src="https://img.shields.io/badge/Netlify-2d2d2d?style=for-the-badge&logo=Netlify&logoColor=32E6E2" class="badge">
+      <img src="https://img.shields.io/badge/Vercel-2d2d2d?style=for-the-badge&logo=Vercel&logoColor=white" class="badge">
+      <img src="https://img.shields.io/badge/Render-2d2d2d?style=for-the-badge&logo=Render&logoColor=8A05FF" class="badge">
+    </td>
+  </tr>
+  <tr>
+    <td class="label">Learning/Course</td>
+    <td>
+      <img src="https://img.shields.io/badge/Php-2d2d2d?style=for-the-badge&logo=php&logoColor=4F5B93" class="badge">
+      <img src="https://img.shields.io/badge/Laravel-2d2d2d?style=for-the-badge&logo=laravel&logoColor=FF1E14" class="badge">
+      <img src="https://img.shields.io/badge/Mysql-2d2d2d?style=for-the-badge&logo=mysql&logoColor=blue" class="badge">
+    </td>
+  </tr>
+</table>
 
 ## Connect with me:
 
