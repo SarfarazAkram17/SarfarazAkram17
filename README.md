@@ -37,9 +37,23 @@ Phone/Whatsapp: +8801973254091
 
 ## Current Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SarfarazAkram17&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br />
-![](https://nirzak-streak-stats.vercel.app/?user=SarfarazAkram17&theme=dark&hide_border=false) <br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarfarazAkram17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SarfarazAkram17&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="100%"/>
+</p>
+<br/> <br/>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SarfarazAkram17&theme=dark&hide_border=false" alt="GitHub Streak" width="100%"/>
+</p>
+<br/> <br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarfarazAkram17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="100%"/>
+</p> <br/> <br/>
+
+![](https://github-readme-stats.vercel.app/api?username=SarfarazAkram17&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br /> <br />
+![](https://nirzak-streak-stats.vercel.app/?user=SarfarazAkram17&theme=dark&hide_border=false) <br /> <br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarfarazAkram17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br /> <br />
 
 
 <!-- ![Php](https://img.shields.io/badge/Php-2d2d2d?style=for-the-badge&logo=php&logoColor=4F5B93) ![Laravel](https://img.shields.io/badge/Laravel-2d2d2d?style=for-the-badge&logo=laravel&logoColor=FF1E14) ![Mysql](https://img.shields.io/badge/Mysql-2d2d2d?style=for-the-badge&logo=mysql&logoColor=4F5B93) -->
