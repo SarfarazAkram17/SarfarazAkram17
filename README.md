@@ -39,12 +39,12 @@ Phone/Whatsapp: +8801973254091
 ## Current Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SarfarazAkram17&theme=gruvbox-duo&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SarfarazAkram17&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="100%"/>
 </p>
 <br/> <br/>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=SarfarazAkram17&theme=elegant&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%"/>
+  <img src="https://nirzak-streak-stats.vercel.app?user=SarfarazAkram17&theme=gruvbox-duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%"/>
 </p>
 <br/> <br/>
 
