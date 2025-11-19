@@ -22,7 +22,7 @@ Phone/Whatsapp: +8801973254091
 
 | Skills Overview          | Technologies |
 |--------------------------|--------------|
-| **Languages**            | ![JavaScript](https://img.shields.io/badge/JavaScript-2d2d2d?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| **Languages**            | ![JavaScript](https://img.shields.io/badge/JavaScript-2d2d2d?style=plastic&logo=javascript&logoColor=F7DF1E) |
 | **Frontend Technologies**| ![HTML5](https://img.shields.io/badge/HTML5-2d2d2d?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-2d2d2d?style=for-the-badge&logo=css3&logoColor=1572B6) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-2d2d2d?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC) ![React](https://img.shields.io/badge/React-2d2d2d?style=for-the-badge&logo=react&logoColor=61DAFB) |
 | **Back-End Development** | ![Node.js](https://img.shields.io/badge/Node.js-2d2d2d?style=for-the-badge&logo=node.js&logoColor=339933) ![Express.js](https://img.shields.io/badge/Express.js-2d2d2d?style=for-the-badge&logo=express&logoColor=white) |
 | **Database**             | ![MongoDB](https://img.shields.io/badge/MongoDB-2d2d2d?style=for-the-badge&logo=mongodb&logoColor=47A248) |
