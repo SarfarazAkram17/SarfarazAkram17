@@ -2,7 +2,7 @@
 
 # 👨‍💻 Sarfaraz Akram
 ### MERN Stack Developer
-
+ 
 I specialize in building modern, responsive, full stack web applications using:
 
 **React | Tailwind CSS | Express.js | Firebase | MongoDB**
