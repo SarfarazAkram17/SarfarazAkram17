@@ -39,7 +39,7 @@ Phone/Whatsapp: +8801973254091
 ## Current Github Stats
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=SarfarazAkram17&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SarfarazAkram17&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="100%"/>
 </div>
 <br/> <br/>
 
