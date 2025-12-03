@@ -2,11 +2,11 @@
 
 # 👨‍💻 Sarfaraz Akram
 ### MERN Stack Developer
- 
+
 I specialize in building modern, responsive, full stack web applications using:
 
 **React | Tailwind CSS | Express.js | Firebase | MongoDB**
- 
+
 ## 💼 About Me
 
 Hi there! I'm **Sarfaraz Akram** – a passionate MERN Stack Developer from Bangladesh. I enjoy building clean and efficient web applications using modern technologies. When I'm not coding, I'm learning something new or experimenting with new stacks.
@@ -17,7 +17,7 @@ Phone/Whatsapp: +8801973254091
 ## 🔄 Current Activity:
   • I’m currently working on a multi vendor e-commerce website name ShopSphere as my personal project. <br />
   • I am start a course to learn PHP, Laravel & Shopify.
-  
+
 ## Technologies i use when code
 
 | Skills Overview          | Technologies |
